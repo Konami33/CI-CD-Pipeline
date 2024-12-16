@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/github-workflow.json": "file:///f%3A/Edge%20Training/CI-CD-Pipeline/.github/workflows/deploy.yml"
+    }
+}
