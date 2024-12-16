@@ -1,6 +1,6 @@
 # Deploying a Node.js application with Docker and GitHub Actions
 
-This repository contains a simple "Node.js" application that is deployed using Docker and GitHub Actions. The workflow ensures that the application is built, tested, and deployed to Docker Hub.
+This repository contains a simple Node.js application that is deployed using Docker and GitHub Actions. The workflow ensures that the application is built, tested, and deployed to Docker Hub.
 
 ## Workflow
 
